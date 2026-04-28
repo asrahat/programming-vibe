@@ -1,16 +1,58 @@
-# React + Vite
+# 🚀 Programming Vibe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Programming%20Vibe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Modern+Web+Development+Project;Next.js+%7C+Tailwind+CSS+%7C+React;Clean+UI+%7C+Reusable+Components;Built+for+Performance+%26+Scalability"/>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Check out the live version of this project here:
 
-## Expanding the ESLint configuration
+👉 [View Live Project](https://voluble-toffee-1b1540.netlify.app/books)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 👨‍💻 About Me / Project
+
+Hi, I'm **Abdus Sami Rahat** 👋  
+This project **Programming Vibe** is built to demonstrate modern frontend development practices using scalable architecture and clean UI design.
+
+> ⚡ Focused on performance, simplicity, and developer experience  
+> 🎯 Goal: Build production-ready, real-world applications
+
+---
+
+## ✨ Features
+
+- ⚛️ Built with **Next.js**
+- 🎨 Modern & responsive UI design
+- 🧩 Reusable component architecture
+- ⚡ Fast loading & optimized performance
+- 📱 Mobile-first responsive layout
+- 🔗 API-ready structure
+- 🌙 Clean developer experience
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,html,css,git" />
+</p>
+
+---
+
+## 📂 Project Structure
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/asrahat/programming-vibe.git
+cd programming-vibe
+npm install
+npm run dev
